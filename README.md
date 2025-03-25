@@ -5,6 +5,8 @@ A simple CLI &amp; GUI Vigenere cipher tool. This tool will encrypt and decrypt 
 
 The **Vigenère cipher** is a method of encrypting text by using a keyword. Unlike a basic Caesar cipher (which shifts letters by a fixed amount), the Vigenère cipher uses different shifts based on the letters of a keyword.
 
+![Screenshot 2025-03-25 184536](https://github.com/user-attachments/assets/bf66278b-0ced-47a6-a7b5-eabf52fda7bd)
+
 ### How It Works (Step-by-Step):
 
 **Step 1: Choose a Keyword**
