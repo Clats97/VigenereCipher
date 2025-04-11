@@ -64,10 +64,9 @@ To decrypt, simply reverse this process:
 Distributed under the Apache 2.0 License. 
 
 **Author**
+
 Joshua M Clatney (Clats97)
+
 Ethical Pentesting Enthusiast
 
 Copyright 2025 Joshua M Clatney (Clats97)
-
-
-
