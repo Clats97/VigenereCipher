@@ -59,5 +59,15 @@ To decrypt, simply reverse this process:
 - It doesn't always shift by the same amount, making it harder to crack.
 - It resists frequency analysis better, because each letter can be encrypted differently depending on the keyword.
 
+- ## License
+
+Distributed under the Apache 2.0 License. 
+
+**Author**
+Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
+
 
 
